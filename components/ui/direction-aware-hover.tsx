@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 "use client";
 
 import { useRef, useState } from "react";
@@ -86,7 +87,7 @@ export const DirectionAwareHover = ({
               ease: "easeOut",
             }}
           >
-            <Image
+            <img
               alt="image"
               className={cn(
                 "h-full w-full object-cover scale-[1.15]",
