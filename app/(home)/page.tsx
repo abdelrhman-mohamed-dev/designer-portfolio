@@ -18,7 +18,7 @@ const page = () => {
       title: "NinjaHome app landing page",
       tech: [SiFigma, SiProton, RiAiGenerate],
       link: "https://ninjahome.net/",
-      cover: "/project1.png",
+      cover: "/project-1.png",
       background: "bg-indigo-500",
     },
     {
